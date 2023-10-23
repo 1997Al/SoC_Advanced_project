@@ -1,0 +1,9 @@
+<map id="turn_ignition_off" name="turn_ignition_off">
+<area shape="rect" id="node1" title="Emulates ignition shutdown." alt="" coords="997,81,1125,108"/>
+<area shape="rect" id="node2" href="$main_8c.html#af053471d0b4597147e87e5f810765f39" title="Emulates vehicle shutdown." alt="" coords="823,81,949,108"/>
+<area shape="rect" id="node3" href="$main_8c.html#abf25095b5883c4c6bbf7d2e6278a2d6b" title="Checks sensors states and and assigns final distance values through cross checking." alt="" coords="108,56,323,83"/>
+<area shape="rect" id="node4" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,81,60,108"/>
+<area shape="rect" id="node5" href="$main_8c.html#abd55cce55aa7962239cd33f61f84d32f" title="After sleep detection, emulate vehicle going into Safe&#45;State and notify through alarm that sleep was ..." alt="" coords="626,5,737,32"/>
+<area shape="rect" id="node7" href="$group__GPIO__Exported__Functions__Group2.html#ga0cd91fd3a9608559c2a87a8ba6cba55f" title="Callback function to capture changes on Push Button line and IR sensor line for Eye blinking tracking..." alt="" coords="588,157,775,184"/>
+<area shape="rect" id="node6" href="$main_8c.html#a636a860151177f95958f8ae91612e6be" title="Checks if distances abide by specifications to detect if objects are to close." alt="" coords="371,5,540,32"/>
+</map>

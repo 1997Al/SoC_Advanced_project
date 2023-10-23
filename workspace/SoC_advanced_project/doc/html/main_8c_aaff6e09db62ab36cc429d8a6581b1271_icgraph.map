@@ -1,0 +1,5 @@
+<map id="calculate_median" name="calculate_median">
+<area shape="rect" id="node1" title="Calculates the median of an unsorted array using the Quick Select algorithm for performance boost." alt="" coords="371,5,508,32"/>
+<area shape="rect" id="node2" href="$main_8c.html#a749be7e4ae79418d9b71fa4ec01135ca" title="Verifying the new captured value of all sensors using a &quot;Running Median&quot; algorithm with a given THRES..." alt="" coords="108,5,323,32"/>
+<area shape="rect" id="node3" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,60,32"/>
+</map>

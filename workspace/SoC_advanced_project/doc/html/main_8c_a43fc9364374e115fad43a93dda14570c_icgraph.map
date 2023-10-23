@@ -1,0 +1,4 @@
+<map id="check_alcohol_level" name="check_alcohol_level">
+<area shape="rect" id="node1" title="Checks alcohol level to determine if car is allowed to be started (low alcohol level) or if car is no..." alt="" coords="108,5,261,32"/>
+<area shape="rect" id="node2" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,60,32"/>
+</map>

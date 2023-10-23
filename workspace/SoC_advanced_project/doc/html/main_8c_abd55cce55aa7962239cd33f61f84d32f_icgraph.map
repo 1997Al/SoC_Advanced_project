@@ -1,0 +1,6 @@
+<map id="driver_asleep" name="driver_asleep">
+<area shape="rect" id="node1" title="After sleep detection, emulate vehicle going into Safe&#45;State and notify through alarm that sleep was ..." alt="" coords="588,5,699,32"/>
+<area shape="rect" id="node2" href="$main_8c.html#a636a860151177f95958f8ae91612e6be" title="Checks if distances abide by specifications to detect if objects are to close." alt="" coords="371,5,540,32"/>
+<area shape="rect" id="node3" href="$main_8c.html#abf25095b5883c4c6bbf7d2e6278a2d6b" title="Checks sensors states and and assigns final distance values through cross checking." alt="" coords="108,5,323,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,60,32"/>
+</map>

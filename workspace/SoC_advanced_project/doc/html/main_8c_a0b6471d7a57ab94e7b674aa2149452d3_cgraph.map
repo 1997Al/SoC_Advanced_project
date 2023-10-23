@@ -1,0 +1,4 @@
+<map id="turn_ignition_on" name="turn_ignition_on">
+<area shape="rect" id="node1" title="Emulates turning on the car ignition." alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node2" href="$group__UART__Exported__Functions__Group2.html#ga01a7a7ac3cf0a262814ba44ee7580ddb" title=" " alt="" coords="180,5,333,32"/>
+</map>

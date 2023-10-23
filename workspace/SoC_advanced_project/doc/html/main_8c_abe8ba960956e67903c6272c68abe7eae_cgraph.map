@@ -1,0 +1,5 @@
+<map id="turn_ignition_off" name="turn_ignition_off">
+<area shape="rect" id="node1" title="Emulates ignition shutdown." alt="" coords="5,31,133,57"/>
+<area shape="rect" id="node2" href="$group__GPIO__Exported__Functions__Group2.html#gaf4b97bdf533a02f51ef696d43b6da5c4" title=" " alt="" coords="183,5,333,32"/>
+<area shape="rect" id="node3" href="$group__UART__Exported__Functions__Group2.html#ga01a7a7ac3cf0a262814ba44ee7580ddb" title=" " alt="" coords="181,56,335,83"/>
+</map>

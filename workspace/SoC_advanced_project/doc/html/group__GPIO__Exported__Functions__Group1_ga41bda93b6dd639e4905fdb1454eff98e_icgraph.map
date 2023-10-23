@@ -1,0 +1,7 @@
+<map id="HAL_GPIO_Init" name="HAL_GPIO_Init">
+<area shape="rect" id="node1" title=" " alt="" coords="311,56,425,83"/>
+<area shape="rect" id="node2" href="$group__TIM__Exported__Functions__Group4.html#ga202723f23bc46b29b16145f9cceabbbb" title="TIM_IC MSP Initialization This function configures the hardware resources used in this example." alt="" coords="108,5,263,32"/>
+<area shape="rect" id="node3" href="$group__UART__Exported__Functions__Group1.html#ga0e553b32211877322f949b14801bbfa7" title="UART MSP Initialization This function configures the hardware resources used in this example." alt="" coords="113,56,258,83"/>
+<area shape="rect" id="node4" href="$main_8c.html#ae89fdd15729ad41a66911190fcbab23a" title="GPIO Initialization Function." alt="" coords="130,107,241,133"/>
+<area shape="rect" id="node5" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,107,60,133"/>
+</map>

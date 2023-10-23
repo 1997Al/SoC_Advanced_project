@@ -1,0 +1,6 @@
+<map id="turn_vehicle_off" name="turn_vehicle_off">
+<area shape="rect" id="node1" title="Emulates vehicle shutdown." alt="" coords="5,31,132,57"/>
+<area shape="rect" id="node2" href="$group__UART__Exported__Functions__Group2.html#ga01a7a7ac3cf0a262814ba44ee7580ddb" title=" " alt="" coords="356,5,509,32"/>
+<area shape="rect" id="node3" href="$main_8c.html#abe8ba960956e67903c6272c68abe7eae" title="Emulates ignition shutdown." alt="" coords="180,56,308,83"/>
+<area shape="rect" id="node4" href="$group__GPIO__Exported__Functions__Group2.html#gaf4b97bdf533a02f51ef696d43b6da5c4" title=" " alt="" coords="358,56,507,83"/>
+</map>

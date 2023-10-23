@@ -1,0 +1,7 @@
+<map id="check_alcohol_level" name="check_alcohol_level">
+<area shape="rect" id="node1" title="Checks alcohol level to determine if car is allowed to be started (low alcohol level) or if car is no..." alt="" coords="5,56,159,83"/>
+<area shape="rect" id="node2" href="$group__HAL__Exported__Functions__Group2.html#gab1dc1e6b438daacfe38a312a90221330" title="This function provides minimum delay (in milliseconds) based on variable incremented." alt="" coords="237,5,330,32"/>
+<area shape="rect" id="node4" href="$group__GPIO__Exported__Functions__Group2.html#gaf2b819ea6551319ddd5670db318d2e4e" title=" " alt="" coords="210,56,357,83"/>
+<area shape="rect" id="node5" href="$group__UART__Exported__Functions__Group2.html#ga01a7a7ac3cf0a262814ba44ee7580ddb" title=" " alt="" coords="207,107,360,133"/>
+<area shape="rect" id="node3" href="$group__HAL__Exported__Functions__Group2.html#gac9b3a85a73735ac840d0dcb59bc0fdd6" title="Provides a tick value in millisecond." alt="" coords="408,5,513,32"/>
+</map>

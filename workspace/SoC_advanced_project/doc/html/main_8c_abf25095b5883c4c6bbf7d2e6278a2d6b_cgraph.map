@@ -1,0 +1,11 @@
+<map id="check_sensor_measurements" name="check_sensor_measurements">
+<area shape="rect" id="node1" title="Checks sensors states and and assigns final distance values through cross checking." alt="" coords="5,318,220,344"/>
+<area shape="rect" id="node2" href="$main_8c.html#a636a860151177f95958f8ae91612e6be" title="Checks if distances abide by specifications to detect if objects are to close." alt="" coords="268,115,437,142"/>
+<area shape="rect" id="node7" href="$group__UART__Exported__Functions__Group2.html#ga01a7a7ac3cf0a262814ba44ee7580ddb" title=" " alt="" coords="995,242,1148,268"/>
+<area shape="rect" id="node8" href="$main_8c.html#af053471d0b4597147e87e5f810765f39" title="Emulates vehicle shutdown." alt="" coords="644,203,771,230"/>
+<area shape="rect" id="node3" href="$main_8c.html#abd55cce55aa7962239cd33f61f84d32f" title="After sleep detection, emulate vehicle going into Safe&#45;State and notify through alarm that sleep was ..." alt="" coords="485,115,596,142"/>
+<area shape="rect" id="node4" href="$group__HAL__Exported__Functions__Group2.html#gab1dc1e6b438daacfe38a312a90221330" title="This function provides minimum delay (in milliseconds) based on variable incremented." alt="" coords="661,39,754,66"/>
+<area shape="rect" id="node6" href="$group__GPIO__Exported__Functions__Group2.html#gaf4b97bdf533a02f51ef696d43b6da5c4" title=" " alt="" coords="997,90,1146,116"/>
+<area shape="rect" id="node5" href="$group__HAL__Exported__Functions__Group2.html#gac9b3a85a73735ac840d0dcb59bc0fdd6" title="Provides a tick value in millisecond." alt="" coords="830,39,935,66"/>
+<area shape="rect" id="node9" href="$main_8c.html#abe8ba960956e67903c6272c68abe7eae" title="Emulates ignition shutdown." alt="" coords="819,191,947,218"/>
+</map>

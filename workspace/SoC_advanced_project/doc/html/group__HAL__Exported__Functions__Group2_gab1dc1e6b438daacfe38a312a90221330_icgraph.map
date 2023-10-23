@@ -1,0 +1,8 @@
+<map id="HAL_Delay" name="HAL_Delay">
+<area shape="rect" id="node1" title="This function provides minimum delay (in milliseconds) based on variable incremented." alt="" coords="747,56,840,83"/>
+<area shape="rect" id="node2" href="$main_8c.html#a43fc9364374e115fad43a93dda14570c" title="Checks alcohol level to determine if car is allowed to be started (low alcohol level) or if car is no..." alt="" coords="379,5,532,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a636a860151177f95958f8ae91612e6be" title="Checks if distances abide by specifications to detect if objects are to close." alt="" coords="371,56,540,83"/>
+<area shape="rect" id="node6" href="$main_8c.html#abd55cce55aa7962239cd33f61f84d32f" title="After sleep detection, emulate vehicle going into Safe&#45;State and notify through alarm that sleep was ..." alt="" coords="588,107,699,133"/>
+<area shape="rect" id="node3" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,31,60,57"/>
+<area shape="rect" id="node5" href="$main_8c.html#abf25095b5883c4c6bbf7d2e6278a2d6b" title="Checks sensors states and and assigns final distance values through cross checking." alt="" coords="108,56,323,83"/>
+</map>

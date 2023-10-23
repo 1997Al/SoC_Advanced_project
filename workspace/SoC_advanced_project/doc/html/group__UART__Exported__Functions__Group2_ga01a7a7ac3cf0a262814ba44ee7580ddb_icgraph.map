@@ -1,0 +1,13 @@
+<map id="HAL_UART_Transmit" name="HAL_UART_Transmit">
+<area shape="rect" id="node1" title=" " alt="" coords="1200,183,1353,209"/>
+<area shape="rect" id="node2" href="$main_8c.html#a43fc9364374e115fad43a93dda14570c" title="Checks alcohol level to determine if car is allowed to be started (low alcohol level) or if car is no..." alt="" coords="823,5,976,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a636a860151177f95958f8ae91612e6be" title="Checks if distances abide by specifications to detect if objects are to close." alt="" coords="371,157,540,184"/>
+<area shape="rect" id="node5" href="$main_8c.html#abf25095b5883c4c6bbf7d2e6278a2d6b" title="Checks sensors states and and assigns final distance values through cross checking." alt="" coords="108,183,323,209"/>
+<area shape="rect" id="node6" href="$main_8c.html#abd55cce55aa7962239cd33f61f84d32f" title="After sleep detection, emulate vehicle going into Safe&#45;State and notify through alarm that sleep was ..." alt="" coords="626,157,737,184"/>
+<area shape="rect" id="node7" href="$main_8c.html#abe8ba960956e67903c6272c68abe7eae" title="Emulates ignition shutdown." alt="" coords="1024,259,1152,285"/>
+<area shape="rect" id="node8" href="$main_8c.html#af053471d0b4597147e87e5f810765f39" title="Emulates vehicle shutdown." alt="" coords="836,233,963,260"/>
+<area shape="rect" id="node10" href="$main_8c.html#a0b6471d7a57ab94e7b674aa2149452d3" title="Emulates turning on the car ignition." alt="" coords="836,309,963,336"/>
+<area shape="rect" id="node11" href="$main_8c.html#ac2bbaa8aadbe632ca22752d10055b836" title="Emulates turning on the car." alt="" coords="393,347,518,373"/>
+<area shape="rect" id="node3" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,208,60,235"/>
+<area shape="rect" id="node9" href="$group__GPIO__Exported__Functions__Group2.html#ga0cd91fd3a9608559c2a87a8ba6cba55f" title="Callback function to capture changes on Push Button line and IR sensor line for Eye blinking tracking..." alt="" coords="588,309,775,336"/>
+</map>

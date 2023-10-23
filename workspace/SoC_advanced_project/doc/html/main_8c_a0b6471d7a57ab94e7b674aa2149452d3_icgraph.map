@@ -1,0 +1,4 @@
+<map id="turn_ignition_on" name="turn_ignition_on">
+<area shape="rect" id="node1" title="Emulates turning on the car ignition." alt="" coords="240,5,367,32"/>
+<area shape="rect" id="node2" href="$group__GPIO__Exported__Functions__Group2.html#ga0cd91fd3a9608559c2a87a8ba6cba55f" title="Callback function to capture changes on Push Button line and IR sensor line for Eye blinking tracking..." alt="" coords="5,5,192,32"/>
+</map>

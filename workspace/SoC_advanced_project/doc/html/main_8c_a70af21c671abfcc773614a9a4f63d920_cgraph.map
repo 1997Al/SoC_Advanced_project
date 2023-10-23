@@ -1,0 +1,7 @@
+<map id="SystemClock_Config" name="SystemClock_Config">
+<area shape="rect" id="node1" title="System Clock Configuration." alt="" coords="5,56,160,83"/>
+<area shape="rect" id="node2" href="$main_8c.html#a1730ffe1e560465665eb47d9264826f9" title="This function is executed in case of error occurrence." alt="" coords="236,5,347,32"/>
+<area shape="rect" id="node4" href="$group__RCC__Exported__Functions__Group1.html#gad0a4b5c7459219fafc15f3f867563ef3" title=" " alt="" coords="208,56,375,83"/>
+<area shape="rect" id="node5" href="$group__RCC__Exported__Functions__Group1.html#ga9c504088722e03830df6caad932ad06b" title=" " alt="" coords="214,107,369,133"/>
+<area shape="rect" id="node3" href="$group__CMSIS__Core__RegAccFunctions.html#ga2299877e4ba3e162ca9dbabd6e0abef6" title="Disable IRQ Interrupts." alt="" coords="423,5,529,32"/>
+</map>
